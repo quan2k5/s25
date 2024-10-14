@@ -1,0 +1,16 @@
+{
+    "todoList": [
+      {
+        "id": "1",
+        "name": "rua bat",
+        "status": false,
+        "completed": false
+      },
+      {
+        "id": "2",
+        "name": "nau com",
+        "status": false,
+        "completed": false    
+      }
+    ]
+}
